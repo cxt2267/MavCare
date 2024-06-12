@@ -46,8 +46,8 @@ Utilizes RFID scanning technology to keep track of items and locations as well a
 - The application should now be open and running.
   
 ## Note 
-Mainly a proof-of-concept demonstration. Has not actually been implemented at a hospital. <br>
-If the application was being implemented, I would deploy both the Java REST API and React application on the hospital's local area network so they could be accessed without additional setup/configuration. <br>
-I would also include more manual (non-scanning) methods of checking items in and out and setting them clean, just in case their RFID tags are not functional.
+- Mainly a proof-of-concept demonstration. Has not actually been implemented at a hospital. 
+- If the application was being implemented, I would deploy both the Java REST API and React application on the hospital's local area network so they could be accessed without additional setup/configuration. 
+- I would also include more manual (non-scanning) methods of checking items in and out and setting them clean, just in case their RFID tags are not functional.
 
 [Vulcan Iron Reader](https://www.atlasrfidstore.com/vulcan-rfid-iron-usb-reader/)
