@@ -38,7 +38,7 @@ Utilizes RFID scanning technology to keep track of items and locations as well a
   - Go to [tomcat.apache.org](https://tomcat.apache.org/) and press 'Download' for Tomcat version 10 or later.
   - Download the binary distribution for your system and extract the zip file.
   - In the extracted folder, go to the 'bin' directory and run the 'startup' script to start running the Tomcat server.
-  - Exit the 'bin' directory and go to the 'webapps' directory where you will copy the JavaAPI.war file.
+  - Exit the 'bin' directory and go to the 'webapps' directory where you will add the JavaAPI.war file.
   - The API should be ready to go.
 - Open the repository in Visual Studio or your preferred IDE.
 - Node dependencies should automatically install.
