@@ -33,7 +33,7 @@ Utilizes RFID scanning technology to keep track of items and locations as well a
 **All other functionality should run fine without the reader.**
 - Download the repository.
 - Plug the Vulcan Iron RFID Reader into a USB port on a Windows PC or laptop.
-  #### Setting up the Java Rest API
+ #### Setting up the Java Rest API
 - Set up the server to deploy the REST API:
   - Go to [tomcat.apache.org](https://tomcat.apache.org/) and press 'Download' for Tomcat version 10 or later.
   - Download the binary distribution for your system and extract the zip file.
