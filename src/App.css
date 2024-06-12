@@ -1,0 +1,17 @@
+.App {
+  display: flexbox;
+  min-width: 100%;
+  justify-content: center;
+  align-items: center;
+  margin: 0;
+}
+
+.App .navbar {
+  min-width: 100%;
+  margin: 0px;
+}
+
+
+
+
+

@@ -1,0 +1,13 @@
+.hidden {
+    display: none;
+}
+
+.checkInButton {
+    padding: 5px;
+    border: none;
+    border-radius: 5px;
+}
+
+.scanItems {
+    margin-bottom: 20px;
+}

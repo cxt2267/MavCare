@@ -1,0 +1,190 @@
+.login-box {
+    width: 420px;
+    background: rgb(126, 160, 164);
+    color: #fff;
+    border-radius: 10px;
+    padding: 30px 40px;
+    padding-top: 20px;
+    padding-bottom: 15px;
+    margin: auto;
+}
+
+.login-box h1 {
+    font-size: 37px;
+    text-align: center;
+}
+
+.login-box h3 {
+    font-size: 22px;
+    text-align: center;
+}
+
+.login-box .user-input {
+    position: relative;
+    width: 100%;
+    height: 50px;
+    margin: 30px 0;
+}
+
+.user-input input{
+    width: 100%;
+    height: 100%;
+    background: transparent;
+    outline: none;
+    border: 2px solid;
+    border-radius: 40px;
+    font-size: 16px;
+    color: #fff;
+    padding: 20px 45px 20px 20px;
+}
+
+.user-input input::placeholder {
+    color:#fff;
+}
+
+.user-input .icon {
+    position: absolute;
+    right: 13px;
+    top: 50%;
+    transform: translateY(-50%);
+    font-size: 16px;
+}
+
+.login-box .resetPass{
+    display: flex;
+    justify-content: space-between;
+    font-size: 14.5px;
+    margin: 25px 0 25px;
+    font-weight: 500;
+}
+
+.resetPass input {
+    accent-color: #fff;
+    margin-right: 4px;
+}
+
+.resetPass a {
+    color: #fff;
+    text-decoration: none;
+}
+
+.resetPass a:hover {
+    text-decoration: underline;
+}
+
+.login-box button {
+    width: 100%;
+    height: 45px;
+    background: #fff;
+    border: none;
+    outline: none;
+    border-radius: 40px;
+    box-shadow: 0 0 10px rgba(0,0,0,.1);
+    cursor: pointer;
+    font-size: 16px;
+    color: #333;
+    font-weight: 700;
+}
+
+.login-box .register-link {
+    font-size: 14.5px;
+    text-align: center;
+    margin: 20px 0 15px;
+}
+
+.register-link p a {
+    color: #fff;
+    text-decoration: none;
+    font-weight: 600;
+}
+
+.register-link p a:hover {
+    text-decoration: underline;
+}
+
+.error-message {
+    font-weight: bold;
+    color: rgba(19, 10, 5, 0.756);
+}
+
+.scan-key {
+    color: #333;
+    background-color: white;
+    font-size: 25px;
+    padding: 5px;
+    border-radius: 5px;
+    text-align: center;
+}
+
+.login-box .user-info {
+    position: relative;
+    width: 100%;
+    height: 40px;
+    margin-bottom: 25px;
+}
+
+.login-box .key-card-info {
+    position: relative;
+    text-align: center;
+    margin-bottom: 22px;
+    margin-top: 18px;
+    background-color: white;
+    border-radius: 5px;
+    color: #333;
+    font-weight: 500;
+    padding: 2px;
+}
+
+.user-info input{
+    width: 100%;
+    height: 100%;
+    background: transparent;
+    outline: none;
+    border: 2px solid;
+    border-radius: 40px;
+    font-size: 16px;
+    color: #fff;
+    padding: 20px 45px 20px 20px;
+}
+
+.user-info input::placeholder {
+    color:#fff;
+}
+
+.user-info .icon {
+    position: absolute;
+    right: 13px;
+    top: 50%;
+    transform: translateY(-50%);
+    font-size: 16px;
+}
+
+.login-box .request-admin {
+    min-width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: 500;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.check-box {
+    width: 16px;
+    height: 16px;
+    max-width: 16px;
+    max-height: 16px;
+    margin-left: 10px;
+}
+
+.scan-again {
+    max-width: 110px;
+    max-height: 30px;
+    width: 110px;
+    height: 30px;
+    margin-top: 7px;
+    margin-bottom: 7px;
+    padding-left: 7px;
+    padding-right: 7px;
+}
+
