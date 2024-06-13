@@ -40,6 +40,7 @@ Utilizes RFID scanning technology to keep track of items and locations as well a
   - In the extracted folder, go to the 'bin' directory and run the 'startup' script to start running the Tomcat server.
   - Exit the 'bin' directory and go to the 'webapps' directory where you will add the JavaAPI.war file.
   - The API should be ready to go.
+#### Running the Web Application
 - Open the repository in Visual Studio or your preferred IDE.
 - Node dependencies should automatically install.
 - Run 'npm start' to start the development server (should be on [http://localhost:3000](http://localhost:3000)) and navigate to it.
