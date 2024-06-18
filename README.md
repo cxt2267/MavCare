@@ -42,7 +42,7 @@ Utilizes RFID scanning technology to keep track of items and locations as well a
   - The API should be ready to go (running on localhost:8080).
 #### Running the Web Application
 - Open the repository in Visual Studio or your preferred IDE.
-- Node dependencies should automatically install.
+- Run 'npm install' to install node modules.
 - Run 'npm start' to start the development server (should be on [http://localhost:3000](http://localhost:3000)) and navigate to it.
 - The application should now be open and running.
   
